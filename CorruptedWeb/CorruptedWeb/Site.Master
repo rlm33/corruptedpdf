@@ -15,7 +15,7 @@
         <div class="header">
             <div class="title">
                 <h1>
-                    {__Cambio de texto de la cabecera__ }</h1>
+                    Cambio de texto de la cabecera</h1>
             </div>
             <div class="loginDisplay">
                 <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
