@@ -1,5 +1,0 @@
-D:\pruebas\corruptedpdf\CorruptedWeb\CorruptedWeb\bin\CorruptedWeb.dll
-D:\pruebas\corruptedpdf\CorruptedWeb\CorruptedWeb\bin\CorruptedWeb.pdb
-D:\pruebas\corruptedpdf\CorruptedWeb\CorruptedWeb\obj\Debug\ResolveAssemblyReference.cache
-D:\pruebas\corruptedpdf\CorruptedWeb\CorruptedWeb\obj\Debug\CorruptedWeb.dll
-D:\pruebas\corruptedpdf\CorruptedWeb\CorruptedWeb\obj\Debug\CorruptedWeb.pdb
